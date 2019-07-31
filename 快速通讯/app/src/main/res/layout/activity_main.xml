@@ -3,7 +3,7 @@
     android:layout_height="match_parent">
 
     <android.support.v7.widget.CardView
-        android:id="@+id/cardView"
+        android:id="@+id/id1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp">
@@ -33,8 +33,12 @@
                     android:text="棒冰行动，公益传播设计夏令营" />
             </LinearLayout>
         </LinearLayout>
+		
+		
+		
     </android.support.v7.widget.CardView>
-
+	
+	
 </LinearLayout>
 
 
